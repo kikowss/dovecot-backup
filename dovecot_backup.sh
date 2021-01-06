@@ -7,7 +7,7 @@
 #               On error while execution, a LOG file and a error message     #
 #               will be send by e-mail.                                      #
 #                                                                            #
-# Last update : 31.01.2019                                                   #
+# Last update : 06.01.2021                                                   #
 # Version     : 1.10                                                         #
 #                                                                            #
 # Author      : Klaus Tachtler, <klaus@tachtler.net>                         #
